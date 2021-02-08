@@ -1,0 +1,4 @@
+1. you can install Conda for python which resolves all the dependencies for machine learning.
+2. install tensorflow , in conda -> $ conda install tensorflow
+3. install keras , in conda -> $ conda install keras
+4. install opencv , in conda -> $ conda install opencv
